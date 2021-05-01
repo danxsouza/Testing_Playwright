@@ -1,0 +1,23 @@
+{
+  "name": "Testing_Playwright",
+  "version": "1.0.0",
+  "description": "Web Automation and Testing using Playwright - Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danxsouza/Testing_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danxsouza/Testing_Playwright/issues"
+  },
+  "homepage": "https://github.com/danxsouza/Testing_Playwright#readme",
+  "dependencies": {
+    "playwright": "^1.10.0"
+  }
+}
